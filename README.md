@@ -1,4 +1,4 @@
-# Stock_Analyis_TFG
+# Time Series Analysis of Top 3 Automobile stocks
 Basics of Stock Analysis
 
 In this I have taken three stocks Tesla,Ford,GM and used DataReader library to extract data of the stock from 2012 to 2017 and analysed these stocks in various ways.
